@@ -70,14 +70,16 @@ ul {
 }
 
 #nav-list {
-  margin-tip: 10px;
+  margin-top: 10px;
   background-color: #00b3b3;
   text-align: center;
 }
+
 #nav-list a {
   color: #000000;
   text-align: center;
 }
+
 #nav-list a span {
   font-size: 1.8em;
 }
